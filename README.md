@@ -1,3 +1,4 @@
-# demo---local---github-1
-# git conflict 
+# demo---local---github-1 
 # Local edit 
+# Viết vào đây để có lỗi conflict
+
